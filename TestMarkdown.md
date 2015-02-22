@@ -6,3 +6,19 @@ And now ***bold italic***?
 
 ## Some sub section
 
+* Item 1
+* Item 2
+  * Sub-item 2a
+  * Sub-item 2b
+* Item 3
+
+1. First
+2. Second
+
+> No idea whom to quote.
+> ??
+
+`<html><unknowntag /></html>`
+
+## 2nd sub
+
