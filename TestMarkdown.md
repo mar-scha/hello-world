@@ -25,9 +25,10 @@ And now ***bold italic***?
 GFM: see if this leads to issue #3
 
 And some code:
-
+```batchfile
     @echo off
     :: A comment
     set
+```
 
 Enough now.
