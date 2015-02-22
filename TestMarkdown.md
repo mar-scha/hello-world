@@ -22,3 +22,12 @@ And now ***bold italic***?
 
 ## 2nd sub
 
+GFM: see if this leads to issue #3
+
+And some code:
+
+    @echo off
+    :: A comment
+    set
+
+Enough now.
