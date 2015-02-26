@@ -22,7 +22,11 @@ And now ***bold italic***?
 
 ## 2nd sub
 
-GFM: see if this leads to issue #3
+A link: [This project](https://github.com/mar-scha/hello-world)
+
+GFM: see if this leads to issue #2
+
+Mentioning me: @mar-scha
 
 And some code:
 ```batchfile
