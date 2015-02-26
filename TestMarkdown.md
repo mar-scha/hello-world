@@ -27,6 +27,8 @@ A link: [This project](https://github.com/mar-scha/hello-world)
 * GFM: see if this leads to issue 2: #2
 * Mentioning me: @mar-scha
 
+OK, doesn't work here, but should do in commit comments
+
 And some code:
 ```batchfile
     @echo off
