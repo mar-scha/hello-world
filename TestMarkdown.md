@@ -24,9 +24,8 @@ And now ***bold italic***?
 
 A link: [This project](https://github.com/mar-scha/hello-world)
 
-GFM: see if this leads to issue #2
-
-Mentioning me: @mar-scha
+* GFM: see if this leads to issue 2: #2
+* Mentioning me: @mar-scha
 
 And some code:
 ```batchfile
